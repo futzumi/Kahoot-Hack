@@ -6,5 +6,5 @@
 - Follow the directions given from there
 - THE ANSWER WILL HAVE ROUNDED CORNERS
 ## Coming Soon
-- Auto Answer
 - UI MAYBE. SOMEONE GOOD AT CSS CONTACT ME ON DISCORD: futzumi#8150
+- Give me ideas
