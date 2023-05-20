@@ -6,5 +6,6 @@
 - Follow the directions given from there
 - THE ANSWER WILL HAVE ROUNDED CORNERS
 ## Coming Soon
-- UI MAYBE. SOMEONE GOOD AT CSS CONTACT ME ON DISCORD: futzumi#8150
+- UI, SHOULD BE OUT IN < 3 DAYS
+- Better student prompt (putting question on top of screen and put all possible responses inside the student response boxes)
 - Give me ideas
